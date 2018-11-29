@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Me</title>
+
+	<style type="text/css">
+/*		 seletor {
+	     property: value;
+	     }*/
+	     h1 {
+	      color: purple; 
+	  }
+	     li {
+	     	color: orange;
+	     }
+	</style>  
+</head>
+<body>
+
+<h1>About Me</h1>
+
+<h4>My hobbies:</h4>
+<ul>
+  <li>Programming</li>
+  <li>Photography</li>
+  <li>Origami</li>
+</body>
+</html>
